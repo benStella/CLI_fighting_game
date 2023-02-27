@@ -1,2 +1,2 @@
 # CLI_fighting_game
-a basic fighting game made for the command line
+a basic fighting game made for the command line in c++
